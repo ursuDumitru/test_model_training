@@ -49,4 +49,6 @@ pip install flash-attn --no-build-isolation
 
 # run
 python mistral_7B_qlora.py
+python mistral_7B_qlora_load_pre_trained.py
+python mistral_7B_qlora_cli_chat.py
 ```
